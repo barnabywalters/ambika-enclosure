@@ -12,13 +12,13 @@ Each individual part is exported in its own SVG file, with the bound size given 
 
 ## Parts and Design
 
-The finished case consists of three main parts:
+The finished case consists of three main parts, designed to be cut out of walnut blanks on a CNC router.
 
 * The main body of the case, which is made up of the following sub-parts, glued together:
-  * The front panel, optionally laser-engraved with graphics
-  * The lowered square into which the encoder gets screwed, glued into the recess on the underside of the front panel
-  * The acrylic display window, fitted and glued into the front panel
-  * The three 8mm thick side panels, which get glued together, and to the top panel. The panel with ventilation slots should go on the left side near the power regulators
+    * The front panel, optionally laser-engraved with graphics
+   * The lowered square into which the encoder gets screwed, glued into the recess on the underside of the front panel
+    * The acrylic display window, fitted and glued into the front panel
+    * The three 8mm thick side panels, which get glued together, and to the top panel. The panel with ventilation slots should go on the left side near the power regulators
 * The back panel with all the holes for connectors, back-mounted volume control, and power switch. This is held in place by both the audio output nuts and four M2 screws which secure it to the 8mm sides.
 * The bottom panel which fits into the recess created by the side panels. I chose to make this out of 4mm clear Acrylic so it’s possible to see into the synth. This is secured by the various M3 standoffs, and some M2 screws which connect it to the sides of the case.
 
