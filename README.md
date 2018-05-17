@@ -4,6 +4,8 @@
 
 This repo contains most of the files necessary to build a wooden, optionally laser engraved case for the Mutable Instruments [Ambika](https://mutable-instruments.net/archive/ambika/build/) polyphonic symthesizer.
 
+On my website you can find some [more photos of the case](https://waterpigs.co.uk/notes/4uSCa6/) and [tips for sourcing parts and assembling the Ambika](https://waterpigs.co.uk/notes/4uUASa/).
+
 ## Files
 
 The plans were orignally drawn in Eazydraw for Mac, and the original Eazydraw file is given here. Ambika Enclosure Plans 720 x 520.svg contains the exact same data in SVG format. EazyDraw generally does a very good job of exporting organised SVG files, so the various layers and objects should be easy enough to make changes to in other vector drawing applications.
